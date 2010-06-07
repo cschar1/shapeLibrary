@@ -13,7 +13,6 @@ bin/
 *.suo
 *.user
 *.csproj.user
-*.csproj
 *.resharper.user
 *.resharper
 *.suo
